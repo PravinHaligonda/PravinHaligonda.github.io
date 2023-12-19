@@ -5,10 +5,10 @@ body {
 }
 
 header {
-    color: #fff;
     text-align: center;
     padding: 1em;
 }
 .description {
-    max-width: 400px;
+    max-width: 1500px;
+    text-align: center;
 }
